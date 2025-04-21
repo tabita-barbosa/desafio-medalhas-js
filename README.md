@@ -14,3 +14,6 @@ ele conquistou.
 # França: 6 medalhas
 # Argentina: 3 medalhas
 ● Os países devem ser exibidos em ordem decrescente de medalhas.
+
+Para testar o código podemos usar esse site:
+https://playcode.io/javascript
